@@ -19,6 +19,3 @@ import {
     <p>Card Footer</p>
   </CardFooter>
 </Card>
-
-
-hrUBe33OzMEdEhnk
